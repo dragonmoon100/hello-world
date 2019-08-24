@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to #AskChristine!
 
-You can use the [editor on GitHub](https://github.com/dragonmoon100/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is #AskChristine? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#AskChristine is an initiative by the [Limbang Youth Network] (https://www.facebook.com/limbangyec/) that ... (insert description)
 
-### Markdown
+![Image] (https://scontent.fsin9-1.fna.fbcdn.net/v/t31.0-8/28699394_1180295262073704_3284250850143893814_o.jpg?_nc_cat=108&_nc_oc=AQmCFVM1BVyjEK6MDh16uIbo2F8GmEAwSsw5avlRhXexHnBHZmrx5w4BWiGlhgvmAk0&_nc_ht=scontent.fsin9-1.fna&oh=a10c1f86406dbae75b43f1ace2698b8a&oe=5DD0F0CA)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ...
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dragonmoon100/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[insert url] (www.google.com) | [insert url] (www.google.com) | [insert url] (www.google.com) | [insert url] (www.google.com) |
